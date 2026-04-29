@@ -69,13 +69,14 @@ The objective is to understand customer behavior, product performance, and overa
 ## 📷 Dashboard Preview
 
 ### Executive Dashboard
-![Executive](Executive_Dashboard.png)
+![Executive](Executive%20Dashboard.png)
 
 ### Customer Analysis
-![Customer](customer_Dahboard.png)
+![Customer](Customer%20dashboard.png)
 
 ### Product Analysis
-![Product](Product_Dashboard.png)
+![Product](Product%20Dashboard.png)
+
 ---
 
 ## 💡 Business Value
