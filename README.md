@@ -10,15 +10,15 @@ The objective is to understand customer behavior, product performance, and overa
 ## 📊 Dashboard Previews
 
 ### 🧭 Executive Dashboard
-![Executive Dashboard](Executive_dashboard.png)
+![Executive Dashboard](Executive%20dashboard.png)
 > High-level KPIs: ₹90.50M total revenue, 37.65% gross margin, 2K orders, and year-over-year growth tracking.
 
 ### 👥 Customer Analysis
-![Customer Analysis](customer_dashboard.png)
+![Customer Analysis](customer%20dashboard.png)
 > 500 customers, 92.20% retention rate, top customer segments, revenue by state, and loyalty point distribution.
 
 ### 📦 Product Analysis
-![Product Analysis](Product_dashboard.png)
+![Product Analysis](Product%20dashboard.png)
 > 6K units sold, ₹28.83M gross profit, top brands by revenue, cancellation rates, and subcategory breakdown.
 
 ---
