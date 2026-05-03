@@ -27,7 +27,7 @@ The objective is to understand customer behavior, product performance, and overa
 
 ```
 📁 Amazon-Ecommerce-Analytics/
-├── 📓 amazon_ecommerce.ipynb      # SQL-based analysis notebook (30+ queries)
+├── 📓 amazon_ecommerce.ipynb      # SQL-based analysis notebook
 ├── 📊 Amazon_ecommerce.xlsx       # Source dataset (4 sheets)
 ├── 🖼️ Executive_dashboard.png     # Power BI – Executive view
 ├── 🖼️ customer_dashboard.png      # Power BI – Customer analysis
